@@ -1,4 +1,4 @@
-# csharp_blue_energy
+# Blue-Energy
 C# .NET Database Connected Application
 
 # Why?
